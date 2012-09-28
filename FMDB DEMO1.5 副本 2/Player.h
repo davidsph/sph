@@ -14,6 +14,12 @@
 @property(nonatomic,copy) NSString *game;
 @property(nonatomic,assign) int rating;
 
+
+
+
+
+
+
 @property(nonatomic,retain)NSString *ratingPic;
 
 
